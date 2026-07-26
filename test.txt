@@ -1,2 +1,5 @@
 New File
 Fixing a bug here. And adding another line
+Edited
+VERY IMPORTANT CHANGE
+Adding again after fixing the critical bug
