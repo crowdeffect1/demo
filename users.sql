@@ -1,2 +1,3 @@
 select *
-from mongodb.users;
+from mongodb.users
+where country_code='US';
