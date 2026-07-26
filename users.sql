@@ -1,0 +1,2 @@
+select *
+from mongodb.users;
